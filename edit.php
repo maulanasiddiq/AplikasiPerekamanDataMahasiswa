@@ -60,7 +60,7 @@
                 <div class="form-group">
                     <label for="nim">NIM</label>
                     <div>
-                        <input type="text" class="form-control" id="nim" name="nim" placeholder="nim" value="<?php echo $nim;?> readonly="true">
+                        <input type="text" class="form-control" id="nim" name="nim" placeholder="nim" value="<?php echo $nim;?>" readonly="true">
                     </div>
                 </div>
 
