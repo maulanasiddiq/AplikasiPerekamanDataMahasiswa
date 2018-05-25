@@ -94,7 +94,7 @@
             <div class="form-group">
                 <label for="no_hp">Nomor HP</label>
                 <div>
-                    <input type="text" class="form-control" id="no_hp" name="no_hp">
+                    <input type="text" class="form-control" id="no_hp" name="no_hp" onkeypress="return hanyaAngka(event, false)"  maxlength="13">
                 </div>
             </div>
 
