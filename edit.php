@@ -48,8 +48,7 @@
         }
     ?>
 
-    <div class="row">
-        <div class="container">
+    <div class="container">
             <br>
             <h2>Data Mahasiswa <i class="fa fa-angle-double-right"></i> Edit Data</h2>
             <hr>
@@ -60,7 +59,7 @@
                 <div class="form-group">
                     <label for="nim">NIM</label>
                     <div>
-                        <input type="text" class="form-control" id="nim" name="nim" placeholder="nim" value="<?php echo $nim;?>">
+                        <input type="text" class="form-control" id="nim" name="nim" placeholder="nim" value="<?php echo $nim;?>" readonly="true">
                     </div>
                 </div>
 
@@ -133,7 +132,6 @@
                             
             </form>
         </div>
-    </div>
 
     <?php 
         include 'footer.php';
