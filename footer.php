@@ -1,7 +1,7 @@
 <div class="container">
 	<br>
 	<hr>
-	Copyright &copy; 2018 Created by Maulana Abdul Siddiq
+	<a href="instagram.com/maulanaabdulsiddiq">Copyright &copy; 2018 Created by Maulana Abdul Siddiq</a>
 	<br>
 	<br>
 </div>
