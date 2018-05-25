@@ -7,7 +7,7 @@ env:
 
 
 script:
-  - "curl -T koneksi.php -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com/public_html/"
+  # - "curl -T koneksi.php -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com/public_html/"
   - "curl -T edit.php -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com/public_html/"
   - "curl -T footer.php -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com/public_html/"
   - "curl -T hapus.php -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com/public_html/"
