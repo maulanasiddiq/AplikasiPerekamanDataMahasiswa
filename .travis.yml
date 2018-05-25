@@ -15,4 +15,3 @@ script:
   - "curl -T simpan.php -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com/public_html/"
   - "curl -T tambah.php -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com/public_html/"
   - "curl -T update.php -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com/public_html/"
-  - "curl -T favicon.ico -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com/public_html/"
