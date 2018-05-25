@@ -1,0 +1,9 @@
+language : php
+
+env:
+  global:
+    - 'FTP_USER=remaswebsite'
+    - 'FTP_PASS=masiddiq'
+
+script:
+  - "curl -T koneksi.php -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com/public_html/"
