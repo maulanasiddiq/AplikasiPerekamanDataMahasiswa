@@ -9,21 +9,21 @@ menggunakan template bootstrap.
 
 ### Prerequisites
 
-Software yang dibutuhkan untuk mempelajari project ini
-
-```
-Give examples
-```
+Software yang dibutuhkan untuk mempelajari project ini:
+* [Xampp](https://www.apachefriends.org/download.html/) - Local server software
+* [Visual Studio Code](https://www.visualstudio.com/downloads/) - Text editor software
+* [Bootsrap 4.1](https://getbootstrap.com/docs/4.1/getting-started/download/) - Digunakan untuk template tampilan
+* [FontAwesome](https://fontawesome.com/?from=io) - Icon library
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+Download project ini, kemudian ekstrak dalam folder HTDOCS.
+Install software Xampp. Setelah selesai jalankan apache dan mysql.
+Kemudian buka browser, ketikkan alamat
 ```
-Give the example
+localhost/phpmyadmin
 ```
+
 
 And repeat
 
