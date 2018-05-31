@@ -20,6 +20,10 @@ Software yang dibutuhkan untuk mempelajari project ini:
 * [Bootsrap 4.1](https://getbootstrap.com/docs/4.1/getting-started/download/) - Digunakan untuk template tampilan
 * [FontAwesome](https://fontawesome.com/?from=io) - Icon library
 
+### Demo
+
+[Demo](http://remaswebsite.000webhostapp.com/) - Untuk demo aplikasi
+
 ### Installing
 
 Download project ini, kemudian ekstrak dalam folder HTDOCS beri nama aplikasi_data.
