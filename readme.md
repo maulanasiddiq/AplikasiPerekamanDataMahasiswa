@@ -4,11 +4,12 @@ Membuat Aplikasi CRUD + Bootstrap
 
 ## Getting Started
 
-Aplikasi ini merupakan implementasi CRUD sederhana yang di dalamnya terdapat menu untuk create data, read data, update data dan delete data. Sebagai penyimpanan data menggunakan database mySQL.
+Aplikasi ini merupakan implementasi CRUD sederhana yang di dalamnya terdapat menu untuk create data, read data, update data dan delete data. Sebagai penyimpanan data menggunakan database mySQL. Sebagai studi kasus yang digunakan adalah data mahasiswa. Untuk tampilannya
+menggunakan template bootstrap.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Software yang dibutuhkan untuk mempelajari project ini
 
 ```
 Give examples
