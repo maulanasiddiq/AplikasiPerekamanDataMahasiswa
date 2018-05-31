@@ -49,3 +49,7 @@ Aplikasi sudah bisa dijalankan. Coba semua fiturnya.
 * Edit data Pada menu edit data akan diarahkan ke halaman edit.php dengan data sesuai nim, yang mana di halaman tersebut terdapat form untuk memperbarui data mahasiswa.
 
 * Hapus data Pada menu hapus data akan diarahkan ke halaman hapus.php, yang mana berguna untuk menghapus data sesuai nim.
+
+### Created by
+
+Maulana Abdul Siddiq
