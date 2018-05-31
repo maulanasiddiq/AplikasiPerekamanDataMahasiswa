@@ -2,10 +2,10 @@
 
 Membuat Aplikasi CRUD + Bootstrap
 
-PHP 7.1 
-HTML 5 
-CSS 3 
-Bootstrap 4.1
+* PHP 7.1 
+* HTML 5 
+* CSS 3 
+* Bootstrap 4.1
 
 ## Getting Started
 
